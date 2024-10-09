@@ -92,6 +92,7 @@ function App() {
           </ul>
         </nav>
       </header>
+      <img src="./assets/images/1253672.jpg" alt="background" />
 
       {/* Content Sections */}
       {activeSection === 'home' && (
