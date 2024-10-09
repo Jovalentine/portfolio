@@ -103,7 +103,7 @@ function App() {
             alt="Bruce Wayne"
             className="header-image"
           />
-          <p>
+          <p className="typewriter" >
             I am Bruce Wayne, a name synonymous with wealth, privilege, and a certain kind of lifestyle.
             The world sees me as a playboy, a philanthropist, and a businessman, but there's a side to me that few know.
             I am also Batman, the Dark Knight of Gotham City. My journey began in tragedy...
